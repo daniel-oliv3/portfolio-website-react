@@ -1,4 +1,5 @@
 import React from 'react';
+import './Intro.css';
 
 const Intro = () => {
     return (
@@ -9,10 +10,12 @@ const Intro = () => {
                 <span>Daniel Oliveira</span>
                 <span>Desenvolvedor frontend com alta experiência em web design e desenvolvimento, produzindo o trabalho de qualidade</span>
             </div>
-            <button className="i-button">Contrate-me</button>
+            <button className="button i-button">Contrate-me</button>
 
             </div>
-            <div className="i-right"></div>
+            <div className="i-right">
+                eu sou lado direito
+            </div>
         </div>
     );
 }
