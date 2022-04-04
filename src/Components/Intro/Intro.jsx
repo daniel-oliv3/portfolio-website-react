@@ -10,6 +10,8 @@ import Thumbup from '../../img/thumbup.png';
 import Crown from '../../img/crown.png';
 import Glassesimoji from '../../img/glassesimoji.png';
 
+import FloatingDiv from '../FloatingDiv/FloatingDiv';
+
 const Intro = () => {
     return (
         <div className="intro">
