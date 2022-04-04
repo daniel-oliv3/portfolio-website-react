@@ -30,5 +30,6 @@
   background: white;
   cursor: pointer;
   color: var(--orange);
+  border: 1px solid var(--orange);
 }
 
