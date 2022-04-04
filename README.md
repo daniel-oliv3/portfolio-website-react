@@ -1,8 +1,8 @@
 SEQUENCIA PARA CRIAR O PROJETO Criar o projeto 
 React - https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 
+Criar o projeto React
 ### npx create-react-app my-app
-Acessar o diretório do projeto
 
 Instalar o yarn
 ### yarn
