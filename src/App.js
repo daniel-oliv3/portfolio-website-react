@@ -1,9 +1,10 @@
+import Navbar from "./Components/Navbar/Navbar";
 
 
 function App() {
   return (
     <div className="App">
-          Olá, Mundo!... Sapup3.
+          <Navbar/>
     </div>
   );
 }
