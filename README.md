@@ -2,7 +2,7 @@ COMO RODAR O PROJETO BAIXADO Instalar todas as dependências indicadas pelo pack
 ### npm install
 
 Rodar o projeto React
-### npm start
+### yarn start
 
 SEQUENCIA PARA CRIAR O PROJETO Criar o projeto React - https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 ### npx create-react-app my-app
