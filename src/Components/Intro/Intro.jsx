@@ -33,6 +33,9 @@ const Intro = () => {
                 <img src={Vector1} alt="" />
                 <img src={Vector2} alt="" />
                 <img src={Boy} alt="" />
+                <div>
+                    <FloatingDiv/>
+                </div>
             </div>
         </div>
     );
