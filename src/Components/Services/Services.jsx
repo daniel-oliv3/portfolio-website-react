@@ -39,6 +39,14 @@ const Services = () => {
                         detail={"Html, Css, JavaScript, React"}
                     />
                 </div>
+                {/* Terceiro cart*/}
+                <div style={{top: "19rem", left: "12rem"}}>
+                    <Card
+                        emoji={Humble}
+                        heading={"UI/UX"}
+                        detail={"Mais vale um bebadis conhecidiss, que um alcoolatra anonimis malandris se pirulitá."}
+                    />
+                </div>
             </div>
         </div>
     )
