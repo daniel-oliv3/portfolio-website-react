@@ -4,7 +4,7 @@ import HeartEmoji from "../../img/heartemoji.png";
 import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import Card from "../Card/Card";
-
+import Resume from "./resume.pdf";
 
 const Services = () => {
     return (
@@ -19,7 +19,9 @@ const Services = () => {
                 <br/>
                 Suco de cevadiss deixa as pessoas mais interessantis.
             </spane>
-            <button className="button s-button">Downloads CV</button>
+            <a href={Resume} download>
+                <button className="button s-button">Downloads CV</button>
+            </a> 
             <div className="blur s-blur1" style={{background: "#ABF1FF94"}}></div>
             </div>
             {/* Right side */}
