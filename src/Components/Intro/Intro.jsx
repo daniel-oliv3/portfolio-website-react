@@ -21,7 +21,7 @@ const Intro = () => {
                 <span>Daniel Oliveira</span>
                 <span>Desenvolvedor frontend com alta experiência em web design e desenvolvimento, produzindo o trabalho de qualidade</span>
             </div>
-            <button className="button i-button">Contrate-me</button>
+            <button className="button i-button">Contato</button>
             <div className="i-icons">
                 <img src={Github} alt="" />
                 <img src={LinkedIn} alt="" />
