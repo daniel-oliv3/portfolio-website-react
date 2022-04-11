@@ -43,7 +43,8 @@ const Intro = () => {
                     <FloatingDiv image={Thumbup} txt1='Prêmio de' txt2='Melhor Design'/>
                 </div>
                 {/* Borrão blur divs*/}
-                <div className='blur' style={{background: "rgb(238 210 255)"}}></div>
+                <div className="blur" style={{background: "rgb(238 210 255)"}}></div>
+                <div className="blur" style={{background: '#C1F5FF', top: '17rem', width: '21rem', height: '11rem', left: '-9rem'}}></div>
             </div>
         </div>
     );
