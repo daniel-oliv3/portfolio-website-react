@@ -23,7 +23,13 @@ const Services = () => {
             </div>
             {/* Right side */}
             <div className="cards">
-                Lado direito
+                <div>
+                    <Card
+                    emoji = {HeartEmoji}
+                    heading = {'Design'}
+                    detail = {"Figma, Sketch, Photoshop, Adobe, Adobe xd"}
+                    />
+                </div>
             </div>
         </div>
     )
