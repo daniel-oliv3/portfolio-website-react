@@ -24,11 +24,19 @@ const Services = () => {
             </div>
             {/* Right side */}
             <div className="cards">
-                <div>
+                <div style={{left: '14rem'}}>
                     <Card
                     emoji = {HeartEmoji}
                     heading = {'Design'}
                     detail = {"Figma, Sketch, Photoshop, Adobe, Adobe xd"}
+                    />
+                </div>
+                {/* Segundo cart */}
+                <div style={{top: "12rem", left: "-4rem"}}>
+                    <Card
+                        emoji={Glasses}
+                        heading={"Developer"}
+                        detail={"Html, Css, JavaScript, React"}
                     />
                 </div>
             </div>

@@ -40,7 +40,13 @@
 }
 
 
+.cards {
+    position: relative
+}
 
+.cards>*{
+    position: absolute;
+}
 
 
 
