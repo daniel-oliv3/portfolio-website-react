@@ -24,7 +24,7 @@ const Portifolio = () => {
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={Ecommerce} alt="" />
-                </SwiperSlide>
+                </SwiperSlide>{" "}
                 <SwiperSlide>
                     <img src={MusicApp} alt="" />
                 </SwiperSlide>

@@ -1,0 +1,51 @@
+.portifolio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+/* Heading */
+.portifolio span:nth-of-type(1) {
+    color: var(--black);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+.portifolio span:nth-of-type(2) {
+    color: var(--orange);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+/* Slider */
+.portifolio .swiper {
+    overflow: visible !important;
+}
+
+.portifolio-slider {
+    margin-top: 3rem;
+    width: 100%;
+}
+
+
+.portifolio-slider .swiper-slider {
+    width: 20rem;
+}
+
+.portifolio img {
+    width: 19rem;
+    filter: drop-shadow(-12px 15px 13px rgba(0, 0, 0, 0.25));
+}
+
+
+
+
+
+
+
+
+
