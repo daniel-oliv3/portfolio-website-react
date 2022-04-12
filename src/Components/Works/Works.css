@@ -16,17 +16,39 @@
     width: 18rem;
     height: 18rem;
     border-radius: 100%;
-    box-shadow: var(--smboxShadow);
+    box-shadow: var(--smboxShodow);
     top: 2rem;
     background: white;
 }
 
+.w-mainCircle>*{
+    position: absolute;
+}
 
+.w-mainCircle > :nth-child(1) {
+    top: -3rem;
+    left: 6rem;
+}
 
+.w-mainCircle > :nth-child(2) {
+    left: -3rem;
+    top: 5rem;
+}
 
+.w-mainCircle > :nth-child(3) {
+    left: 6rem;
+    top: 5rem;
+}
 
+.w-mainCircle > :nth-child(4) {
+    left: 15rem;
+    top: 5rem;
+}
 
-
+.w-mainCircle > :nth-child(5) {
+    left: 6rem;
+    top: 13rem;
+}
 
 
 
