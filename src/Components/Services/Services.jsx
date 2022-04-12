@@ -49,6 +49,7 @@ const Services = () => {
                         detail={"Mais vale um bebadis conhecidiss, que um alcoolatra anonimis malandris se pirulitá."}
                     />
                 </div>
+                <div className="blur s-blur2" style={{background: "var(--purple)"}}></div>
             </div>
         </div>
     )
