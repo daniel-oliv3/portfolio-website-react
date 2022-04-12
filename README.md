@@ -15,3 +15,6 @@ Add o Swiper
 
 Add Emailjs - https://www.emailjs.com/docs/examples/reactjs/
 ### yarn add emailjs
+
+Add Email Browser
+### yarn add @emailjs/browser
