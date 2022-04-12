@@ -10,3 +10,5 @@ Instalar o yarn
 Rodar o projeto React
 ### yarn start
 
+Add o Swiper
+### yarn add swiper
