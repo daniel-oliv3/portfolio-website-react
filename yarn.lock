@@ -3623,6 +3623,11 @@ electron-to-chromium@^1.4.84:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.103.tgz#abfe376a4d70fa1e1b4b353b95df5d6dfd05da3a"
   integrity sha512-c/uKWR1Z/W30Wy/sx3dkZoj4BijbXX85QKWu9jJfjho3LBAXNEGAEW3oWiGb+dotA6C6BzCTxL2/aLes7jlUeg==
 
+emailjs@^3.8.0:
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/emailjs/-/emailjs-3.8.0.tgz#db1111911c6e1091341b5b34ecd9cc9d89f208b0"
+  integrity sha512-ZLMFAC3C8GNebBvDpPgHwPeK4Ajx/rkq1TqLNFH9bC9TwEac1JhIYb3KuBY5eNfr0YVUaEfGughWszRBD5rcgQ==
+
 emittery@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/emittery/-/emittery-0.8.1.tgz#bb23cc86d03b30aa75a7f734819dee2e1ba70860"

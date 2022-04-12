@@ -12,3 +12,6 @@ Rodar o projeto React
 
 Add o Swiper
 ### yarn add swiper
+
+Add Emailjs - https://www.emailjs.com/docs/examples/reactjs/
+### yarn add emailjs
